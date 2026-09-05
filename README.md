@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taha Gökçe</h1>
-<h3 align="center">Full-stack Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - Kafein Technology Solutions [Weight and Balance](https://turkishtechnology.com/)
   
